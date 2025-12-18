@@ -98,7 +98,7 @@ After switching on the device, it will emit short pulses on the internal
 LED, indicating that it's ready to start data taking. It will then wait
 for the user to push and release button1 ("button1[off]") to start writing
 out the data. The device will then continue to take data until button2
-is pressed ("button2[on]"). All lights will then go on to indicate the
+is pressed ("button2[on]"). The internal LED will then light up to indicate the
 data taking has ended.
 
 ### Other Configuration Options
