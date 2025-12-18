@@ -82,7 +82,8 @@ The start and stop of a datataking can be initiated by either a time or
 press/release of one of the two buttons of the device.
 
 ### Default Configuration File
-If the SD card contains no configuration file, this default file will be used:
+If the SD card contains no configuration file, this default file will be used. Note, that
+lines starting with "#" will be treated as comments and ignored for the configuration settings:
 
 ```
 Metadata: taken on XYZ by A, B
