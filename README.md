@@ -27,6 +27,7 @@ Once the [software is installed](#installation_instructions) on the device and t
 charged, the users will want to set the proper [start and stop conditions](/SWdetails/#configuration-file)
 for the measurement.
 
+The device has 3 LEDs, the internal LED of the Pico 2 board and two LEDs next to the two buttons.
 Once the device is switched on it will emit a short flash once per second on the internal LED to indicate
 its readyness. All other modes of LED flashing points to an error, e.g. the SD card
 might be missing.
