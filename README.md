@@ -147,7 +147,7 @@ An example of a data file  is given here:
 11049,-1.836,6.195,-9.082,-1.302,-0.361,-0.249,18.441,0,0,0,0
 ```
 The first four lines repeat the current content of the configuration file, the order
-might be different though. The fifth line describes the data which follows.
+might be different though. The fifth line describes the data which is as follows.
 
 
 | variablename | comment |
