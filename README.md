@@ -27,8 +27,8 @@ Once the [software is installed](#installation_instructions) on the device and t
 charged, the users will want to set the proper [start and stop conditions](/SWdetails/#configuration-file)
 for the measurement.
 
-Once the device is switched on it will emit a short flash once per second to indicate
-its readyness. If all LEDs flash for 30 seconds, something is wrong, e.g. the SD card
+Once the device is switched on it will emit a short flash once per second on the internal LED to indicate
+its readyness. All other modes of LED flashing points to an error, e.g. the SD card
 might be missing.
 
 Then, once the start condition is met, the device will then take data and write o SD card.
