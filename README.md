@@ -45,8 +45,8 @@ scratch including installation of the lastest micropython version for the Pico2 
 
 1. clone this repository
    ```
-   git clone <link>
-   cd <path>
+   git clone https://github.com/rseuster/PiDAQ
+   cd PiDAQ
    ```
 1. create a virtual environment, activate it and pip-install all required packages
    ```
