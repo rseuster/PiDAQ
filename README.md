@@ -107,6 +107,7 @@ Typically it will only apply to the StopCondition. The user can define
 a time frame for the measurement. Possible timeunits are "[s,m,h]".
 Only integer values are allowed, no fractions.
 
+### DataRate
 The "DataRate" will take two integers as a configuration,
 separated by a minus sign.
 The first integer labelled "A" has an allowed range from 1-10, with the meaning:
