@@ -1,0 +1,5 @@
+Metadata: taken on XYZ by A, B
+StartCondition: button1[off]
+# StopCondition:  time[30s]
+StopCondition:  button2[on]
+DataRate(A/T):  3 - 1
