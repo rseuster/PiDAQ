@@ -3,9 +3,9 @@ The PiDAQ is a small microcontroller board based on the
 [Raspberry Pico Pi 2 device](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 and aims to be a simple and easy to use data aquisition ("DAQ") system that can be
 used by students in teaching labs at high schools and universities. The device writes
-the measurement data to files in CSV (comma separated values) to an SD card that can them
+the measurement data to files in CSV (comma separated values) to a SD card that can then
 be read on the students laptops.
-It is connected to a custom board providing access to two specialized sensor chips:
+The Pico 2 board is connected to a custom PCB board providing access to two specialized sensor chips:
 
 1. [BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
    for measuring temperature, pressure and humidity, the data on the SD card will be
@@ -19,7 +19,8 @@ It is connected to a custom board providing access to two specialized sensor chi
 
 The software has been written in [MicroPython](https://micropython.org/) and is described
 [here in more defails](SWdetails.html) together with some details about the hardware.
-It also briefly describes setting up the environment for further software development.
+Below we describe for to install the software on the board and includes setting up an
+environment for further software development.
 
 ## Taking Measurements
 Once the [software is installed](#installation_instructions) on the device and the battery
