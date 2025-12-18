@@ -19,7 +19,7 @@ The Pico 2 board is connected to a custom PCB board providing access to two spec
 
 The software has been written in [MicroPython](https://micropython.org/) and is described
 [here in more defails](SWdetails.html) together with some details about the hardware.
-Below we describe for to install the software on the board and includes setting up an
+Below we describe how to install the software on the board and includes setting up an
 environment for further software development.
 
 ## Taking Measurements
